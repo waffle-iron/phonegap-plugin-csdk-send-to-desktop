@@ -1,4 +1,5 @@
 [![Stories in Ready](https://badge.waffle.io/CreativeSDK/phonegap-plugin-csdk-send-to-desktop.png?label=ready&title=Ready)](https://waffle.io/CreativeSDK/phonegap-plugin-csdk-send-to-desktop)
+[![Stories in Ready](https://badge.waffle.io/CreativeSDK/phonegap-plugin-csdk-send-to-desktop.png?label=ready&title=Ready)](https://waffle.io/CreativeSDK/phonegap-plugin-csdk-send-to-desktop)
 <!--
 #
 # Licensed to the Apache Software Foundation (ASF) under one
